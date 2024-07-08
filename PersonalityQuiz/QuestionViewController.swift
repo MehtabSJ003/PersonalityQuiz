@@ -203,6 +203,8 @@ class QuestionViewController: UIViewController {
         }
     }
     
+    
+    @IBOutlet weak var backButton: UIBarButtonItem!
     // Added a back button if user wants to change the answer
     @IBAction func backButtonPressed(_ sender: UIBarButtonItem) {
         if questionIndex > 0 {

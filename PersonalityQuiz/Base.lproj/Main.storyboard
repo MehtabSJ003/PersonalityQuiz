@@ -54,7 +54,7 @@
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="plain" title="Begin Personality Quiz"/>
                                         <connections>
-                                            <segue destination="0sW-b1-b5D" kind="show" identifier="" id="pOd-Nj-r5V"/>
+                                            <segue destination="0sW-b1-b5D" kind="show" id="rsx-CW-iqP"/>
                                         </connections>
                                     </button>
                                 </subviews>
@@ -290,7 +290,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="backButton" destination="pAQ-2j-ETz" id="Dfo-tA-jsI"/>
+                        <outlet property="backButton" destination="pAQ-2j-ETz" id="9x1-0Q-15R"/>
                         <outlet property="multiLabel1" destination="d1i-Wh-M6j" id="EdT-Ym-FM3"/>
                         <outlet property="multiLabel2" destination="45G-fC-fpD" id="ygu-TQ-MWZ"/>
                         <outlet property="multiLabel3" destination="Bmp-lq-nue" id="L6Q-0u-8n0"/>
